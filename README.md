@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emanuelfrx
+- 👋 Hi, I’m Emanuel Freitas
 - 👀 I’m interested in programming and design 
 - 🌱 I am currently a student of Sistemas e Midias Digitais at UFC
 - 💞️ I’m looking to collaborate on programming projects involving
